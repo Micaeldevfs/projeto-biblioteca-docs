@@ -23,7 +23,8 @@ API RESTful central (Backend) que serve uma aplicação Web (gestão) e uma Mobi
 - **Semanas 7-8:** Frontend - Telas de consulta do membro e testes.
 
 ## 5. Integrantes da Equipe
-- José Teófilo Silva Junior 2326318 
+
+- José Teófilo Silva Junior 2326318
 - Gabriel de Paula Pinto Façanha 2326319
 - Micael Duarte de Oliveira Neves 2326153
 - José Airton Jorge Ferreira da Silva 2326337
