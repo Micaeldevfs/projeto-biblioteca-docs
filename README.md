@@ -24,5 +24,9 @@ API RESTful central (Backend) que serve uma aplicação Web (gestão) e uma Mobi
 
 ## 5. Integrantes da Equipe
 
-- SEU NOME - SUA MATRÍCULA - Papel
-- NOME COLEGA - MATRÍCULA COLEGA - Papel
+José Teófilo Silva Junior 2326318 
+Gabriel de Paula Pinto Façanha 2326319
+Micael Duarte de Oliveira Neves 2326153
+José Airton Jorge Ferreira da Silva 2326337
+José Wellington Paiva Lopes Junior 2315077
+Andre Augusto Cesar Queiroz de Souza 2326177
